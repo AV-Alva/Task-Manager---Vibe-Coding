@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0001",
+    "title": "gym",
+    "description": "go to gym",
+    "completed": false
+  },
+  {
+    "id": "0002",
+    "title": "cook",
+    "description": "breakfast",
+    "completed": true
+  },
+  {
+    "id": "0003",
+    "title": "shop",
+    "description": "grocery for this week",
+    "completed": false
+  }
+]
